@@ -1,23 +1,18 @@
 # ZhangJJ-online-GEOG676-spring2026
 
-
-
 ## Jinjian Zhang
 
 
+|Labs|
+|:--:|
+|[lab_1](lab_1/README.md)|
+|[lab_2](lab_2/README.md)|
+|[lab_3](lab_3/README.md)|
+|[lab_4](lab_4/README.md)|
+|[lab_5](lab_5/README.md)|
+|[lab_6](lab_6/README.md)|
+|[lab_7](lab_7/README.md)|
 
-
-
-|Homework|Lab|Project|
-|-|-|-|
-|[week01](homework/week01)|[week01](lab/week01)||
-|[week02](homework/week02)|[week02](lab/week02)||
-|[week03](homework/week03)|[week03](lab/week03)||
-|[week04](homework/week04)|[week04](lab/week04)||
-|[week05](homework/week05)|[week05](lab/week05)||
-|[week06](homework/week06)|[week06](lab/week06)||
-|[week07](homework/week07)|[week07](lab/week07)||
-|[week08](homework/week08)|[week08](lab/week08)||
 
 
 
