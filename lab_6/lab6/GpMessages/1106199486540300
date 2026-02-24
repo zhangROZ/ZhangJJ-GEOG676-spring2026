@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 2026年2月24日 1:32:16</msg><msg code="1" type="100">Traceback (most recent call last):
+﻿  File "D:\Spring2026_Courses\GEOG676\ZhangJJ-GEOG676-spring2026\lab_6\lab6_jjz.pyt", line 92, in execute
+    time.sleep(readTime)
+    ^^^^
+﻿NameError: name 'time' is not defined. Did you forget to import 'time'?
+﻿</msg><msg code="-2147467259" type="100">Failed to execute (GraduatedColorRenderer).</msg><msg code="0" type="3">Failed at 2026年2月24日 1:32:16 (Elapsed Time: 0.18 seconds)</msg></messages>
